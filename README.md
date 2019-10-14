@@ -5,15 +5,15 @@ $ git clone https://github.com/kudeh/image-search-engine
 $ cd image-search-engine
 $ pip3 install -r requirements.txt
 
-![](Screenshots/Screenshot from 2019-10-14 17-08-12.PNG)
+![](Screenshoot/Screenshot from 2019-10-14 17-08-12.PNG)
 
 ### 2. Masuki ke folder app lalu run program tersebut
 $ cd app
 $ python index.py --dataset static/images --index index.csv
-![](Screenshots/Screenshot from 2019-10-14 17-08-39.PNG)
+![](Screenshoot/Screenshot from 2019-10-14 17-08-39.PNG)
 
 ### 3. Buka index.cvs untuk melihat hasil output
-![](Screenshots/Screenshot from 2019-10-14 17-09-20.PNG)
+![](Screenshoot/Screenshot from 2019-10-14 17-09-20.PNG)
 
 ### 4. Image dapat ditambah atau diganti di folder ./static/images
 
